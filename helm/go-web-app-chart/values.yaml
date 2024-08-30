@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: pdt1991/go-web-app
   pullPolicy: IfnotPresent
-  tag: "v1"
+  tag: "10625211199"
 
   ingress:
     enabled: false
